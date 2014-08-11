@@ -17,3 +17,7 @@
 * item5
 
 **At branch master**
+
+* item6
+
+new line
